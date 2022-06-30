@@ -10,8 +10,9 @@ public class Cloud1Application {
 
     public static void main(String[] args) {
 
-        log.info("cloud-1 start");
+
         SpringApplication.run(Cloud1Application.class, args);
+        log.info("cloud-1 start");
     }
 
 }
