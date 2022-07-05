@@ -12,7 +12,7 @@ public class Cloud1Application {
 
 
         SpringApplication.run(Cloud1Application.class, args);
-        log.info("cloud-1 start");
+        log.info("cloud-1 started");
     }
 
 }
